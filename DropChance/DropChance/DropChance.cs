@@ -12,6 +12,11 @@ namespace DropChance
             int randomNumber = random.Next(0, keySumm);
             int elementSum = 0;
             int index;
+            
+            if (dictionary == null || dictionary.Count == 0)
+            {
+                throw new ArgumentException("A dictionary cannot be empty or indefinite", nameof(dictionary));
+            }
 
             for (index = 0; index < dictionary.Count; index++)
             {
@@ -30,6 +35,11 @@ namespace DropChance
         public static int GetRangeOfRandom(Dictionary<Key, int> dictionary)
         {
             int range = 0;
+
+            if (dictionary == null || dictionary.Count == 0)
+            {
+                throw new ArgumentException("A dictionary cannot be empty or indefinite", nameof(dictionary));
+            }
 
             for (int i = 0; i < dictionary.Count; i++)
             {

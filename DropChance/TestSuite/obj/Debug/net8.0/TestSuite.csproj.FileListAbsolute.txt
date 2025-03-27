@@ -170,3 +170,4 @@ C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\TestSuite\obj\Debu
 C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\TestSuite\obj\Debug\net8.0\TestSuite.pdb
 C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\TestSuite\obj\Debug\net8.0\TestSuite.genruntimeconfig.cache
 C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\TestSuite\obj\Debug\net8.0\ref\TestSuite.dll
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\TestSuite\obj\Debug\net8.0\TestSuite.sourcelink.json
