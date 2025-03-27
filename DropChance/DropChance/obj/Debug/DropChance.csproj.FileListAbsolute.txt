@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\DropChance\bin\Debug\DropChance.dll
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\DropChance\bin\Debug\DropChance.pdb
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\DropChance\obj\Debug\DropChance.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\DropChance\obj\Debug\DropChance.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\DropChance\obj\Debug\DropChance.dll
+C:\Users\user\Desktop\Работы\Drop-Chance-Lib\DropChance\DropChance\obj\Debug\DropChance.pdb
