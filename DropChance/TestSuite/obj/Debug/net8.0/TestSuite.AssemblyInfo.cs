@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSuite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76385ec51ce0766dccc85a8c4c079132bfee4f2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368e2dcb2b49eec2bb5b400c47148d3ccd174ee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSuite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSuite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
